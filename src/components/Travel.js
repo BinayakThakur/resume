@@ -15,12 +15,12 @@ export default function Travel() {
         Dynomix
         </Typography>
         <Typography variant="body2">
-            React MERN application to demonstrate CRUD and MUI in front-end deployed live on Heroku app and code is available in git.
+            React Fullstack application to demonstrate CRUD ,Spring boot in back-end deployed live on Heroku app and code is available in git.
 
         </Typography>
       </CardContent>
       <CardActions>
-       <a href="https://ekmusafir.herokuapp.com/home" target="_blank" className="ms-4"><Button variant="contained" className="ms-5">Check it out</Button></a>
+       <a href="https://dynomix.herokuapp.com/home" target="_blank" className="ms-4"><Button variant="contained" className="ms-5">Check it out</Button></a>
       </CardActions>
     </Card>
   );
