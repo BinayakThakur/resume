@@ -9,7 +9,7 @@ const About =()=>{
        
             <div className="row">
                 <div className="col-3 mt-2" style={{width:"18rem"}} >
-                <img src="https://media-exp1.licdn.com/dms/image/C4D03AQElQZcO3usEaA/profile-displayphoto-shrink_800_800/0/1605771144309?e=1637798400&v=beta&t=49zBM6q4nCk3G14iA0qWJ9thmY_-CGWIzZfkt9zN3FQ" style={{width:"16rem"}} className="img-thumbnail card-4"></img>
+                <img src="https://media-exp1.licdn.com/dms/image/C4D03AQElQZcO3usEaA/profile-displayphoto-shrink_800_800/0/1605771144309?e=1643241600&v=beta&t=g1VW-aEZjCi1k_2NgrnwvsaqApx2H8CyZTw_x3IReaI" style={{width:"16rem"}} className="img-thumbnail card-4"></img>
                 </div>
                 <div className="col card-4 mt-2" style={{backgroundColor:"purple",color:"white"}}>
                 <Typography variant="h5" className="" style={{color:"pink"}} className="mb-4 mt-4">Binayak Kumar Thakur</Typography>
